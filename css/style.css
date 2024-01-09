@@ -12,6 +12,7 @@
     margin: 0 auto;
     padding-bottom: 177px;
     border-radius: 16px;
+    margin-top: 50px;
 }
 .banner_text h3{
     color: #FFF;
@@ -404,6 +405,7 @@
     height: 150px;
     padding-left: 585px;
     padding-bottom: 40px;
+    padding-top: 80px;
 }
 .subscribe_text h3{
     color: #070211;
